@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Wassup! I'm Kinzari. A 22-year-old student.<br>🌱 I’m currently learning HTML, Bootstrap, CSS, JavaScript, and PHP<br>💬 Specializes at Front End ( Can do Backend too! )<br>⚡ I play gacha games! ( NIKKE and Wuthering Waves )
+🔭 Wassup! I'm Kinzari. A 22-year-old student.<br>🌱 I’m currently learning HTML, Bootstrap, CSS, JavaScript, and PHP<br>💬 Specializes at Front End<br>⚡ I play gacha games! ( NIKKE and Wuthering Waves )
 
 
 ## 🌐 Socials:
